@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript">
+	function trycatchDemo()
+	{
+		try{
+			add();
+		}catch(e){
+			document.getElementById("err").innerHTML = e.message;
+		}
+	}
+	function throwDemo(){
+		var age = document.getElementById("age").value;
+		try{
+			if(age=="")throw "年龄不能为空";
+			if(isNaN(age)) throw "请输入数字";
+			if(age<18) throw "太小了";
+			if(age>100) throw "太大了";
+		}catch(e){
+			document.getElementById("err").innerHTML = e;
+		}
+	}
+</script>
+</head>
+<body>
+	<input type = "button" value = "try/catch测试" onclick = "trycatchDemo()"/>
+	<br/>
+	请输入年龄<input id = "age" type = "text"/>
+	<br/>
+	<input type = "button" value = "throw测试" onclick = "throwDemo()"/>
+	<div id = "err"></div>
+</body>
+</html>

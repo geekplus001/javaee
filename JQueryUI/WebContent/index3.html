@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src = "./jquery/jquery-1.11.3.js"></script>
+<script type="text/javascript" src = "./jquery/jquery-ui.js"></script>
+<script type="text/javascript" src = "./jquery/jquery-ui.css"></script>
+<link href = "./jquery/jquery-ui.css" rel = "stylesheet"/>
+<script>
+  $(function() {
+    $( "input[type=submit], a, button" )
+      .button()
+      .click(function( event ) {
+        event.preventDefault();
+      });
+  });
+  </script>
+</head>
+<body>
+	<button>A button element</button>
+ 
+	<input type="submit" value="A submit button">
+ 
+	<a href="#">An anchor</a>
+</body>
+</html>

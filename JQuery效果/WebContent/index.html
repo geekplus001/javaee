@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src = "./jquery/jquery-1.11.3.js">
+	
+</script>
+<script type="text/javascript">
+	$(function(){
+		$("#btnHide").click(function(){
+			$("#p1").hide("slow");
+		});
+		$("#btntoggle").click(function(){
+				$("#p1").toggle("slow");
+		});
+		$("#btnslidedown").click(function(){
+				$("#p1").slideDown("slow");
+		});
+	});
+		
+	$(function(){
+		$("#btnfadeout").click(function(){
+			$("#img1").fadeOut("slow");	
+		});
+		$("#btnfadein").click(function(){
+			$("#img1").fadeIn("slow");	
+		});
+		$("#btnfadeto").click(function(){
+			$("#img1").fadeTo("slow",0.6,"linear");	
+		});
+		$("#animate").click(function(){
+			$("#img1").animate({width:"120%",height:"120%"},"slow");	
+		})
+	});
+	
+</script>
+</head>
+<body>
+	<p id = "p1">我只为人民币服务</p><br/>
+	<input type = "button" id = "btnHide" value = "hide"/>
+	<input type = "button" id = "btntoggle" value = "show/hide"/>
+	<input type = "button" id = "btnslidedown" value = "btnslidedown"/>
+	<br/>
+	
+	<img id = "img1" alt="呵呵" src="./img/QQ图片20150908191519.jpg">
+	<br/>
+	<input type = "button" id = "btnfadeout" value = "btnfadeout"/>
+	<input type = "button" id = "btnfadein" value = "btnfadein"/>
+	<input type = "button" id = "btnfadeto" value = "btnfadeto"/>
+	<input type = "button" id = "animate" value = "animate"/>
+</body>
+</html>

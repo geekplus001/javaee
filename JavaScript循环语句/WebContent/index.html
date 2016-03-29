@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript">
+	function forDemo()
+	{
+		var cars = ["Audi","BMW","Ford"];
+		
+		for(var i = 0;i<cars.length;i++)
+			{
+			
+				document.write(cars[i]+"<br/>");
+			}
+	}
+	function forinDemo()
+	{
+		var str = "";
+		var person = {name:"小白",age:18};
+		for(x in person)
+			{
+				str = str+person[x];
+			}
+		document.write(str);
+	}
+</script>
+</head>
+<body>
+	<input type = "button" value = "for循环" onclick  = "forDemo()" />
+	
+	<input type = "button" value = "for in 循环" onclick  = "forinDemo()" />
+</body>
+</html>

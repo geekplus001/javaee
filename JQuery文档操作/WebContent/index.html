@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src = "./jquery/jquery-1.11.3.js"> 
+	
+</script>
+
+
+<style type="text/css">
+	
+	.myClass{
+		background-color:gray;
+		margin:10px;
+		padding:10px;
+	}
+</style>
+
+
+
+<script type="text/javascript">
+	$(function(){
+		$("#btnAddClass").click(function(){
+			$("#p1").addClass("myClass");
+		});
+		$("#append").click(function(){
+			$("#div1").append("<p>有一种爱叫隐身对其可见</p>");	
+		});
+	});
+</script>
+</head>
+<body>
+	<p id = "p1">
+		失败是成功它后妈，老看它失败也不帮它。
+	</p>
+	<div id = "div1"></div>
+	<input type = "button" id = "btnAddClass" value  = "btnAddClass"/>
+	<input type = "button" id = "append" value  = "append"/>
+</body>
+</html>

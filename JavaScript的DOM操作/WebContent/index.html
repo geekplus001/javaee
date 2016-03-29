@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript">
+	function domDemo1()
+	{
+		
+		var  p1 = document.getElementById("p1");
+		p1.setAttribute("title","小白");
+	}
+	function domDemo2()
+	{
+		var p1 = document.getElementById("p1");
+		p1.style.color = "#ff0000";
+	}
+	
+	window.onload = function()
+	{
+		document.getElementById("button3").onclick = function()
+		{
+			alert("使用DOM为HTML分配事件");
+		};
+		
+	}
+</script>
+</head>
+<body>
+	<p id = "p1" title = "">
+		小白今天生病了，精神恍惚。
+	</p>
+	<input type = "button" id = "button1" value  ="DOM测试1" onclick = "domDemo1()"/>
+	<br/>
+	<input type = "button" id = "button2" value  ="DOM测试2" onclick = "domDemo2()"/>
+	<br/>
+	<input type = "button" id = "button3" value  ="DOM测试3"/>
+</body>
+</html>

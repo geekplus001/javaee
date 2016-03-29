@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src = "./jquery/jquery-1.11.3.js">
+	
+
+</script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		var str = $("p").html();
+		alert(str);
+	});
+	
+	$(function(){
+		//设置背景颜色
+		$(document.body).css("background","black");
+	});
+	
+	$(function(){
+		//选取id为div1的元素
+		var str = $("#div1").html();
+		alert(str);
+	});
+	
+	$(function(){
+		var len  = $("[href = '#']").length;
+		alert(len);
+	});
+</script>
+</head>
+<body>
+	<p>请大口呼气，但这里是北京</p>
+	<div id = "div1">
+		拙劣的艺术家复制，优秀的艺术家借鉴，而伟大的艺术家则偷窃。
+	</div>
+	<br/>
+	<a href = "#">首页</a><br/>
+	<a href = "#">新闻</a><br/>
+	<a href = "#">美女</a><br/>
+	<a href = "#">香车</a><br/>
+</body>
+</html>

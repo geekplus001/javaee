@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src = "./js/index.js">
+	document.getElementById("name").focus();
+</script>
+</head>
+<body>
+<form action="" name = "myform">
+	<table>
+		<tr>
+			<td><input type = "text" id = "name" onfocus = "onfocusFunc()"/></td>
+			<td><div id = "name_info"></div></td>
+		</tr>
+		<tr>
+			<td>爱好：</td>
+			<td>
+				<input id = "likes" type = "checkbox" name = "likes" value = "泡妞"/>
+				<input id = "likes" type = "checkbox" name = "likes" value = "睡觉"/>
+				<input id = "likes" type = "checkbox" name = "likes" value = "学java"/>
+			</td>
+		<tr/>
+		<tr>
+			<td>性别：</td>
+			<td>
+				<input type = "radio" id = "sex" name = "sex" value = "男"/>男
+				<input type = "radio" id = "sex" name = "sex" value = "女"/>女
+				<input type = "radio" id = "sex" name = "sex" value = "其他"/>其他
+			</td>
+		</tr>
+		<tr>
+			<td>城市</td>
+			<td>
+				<select id = "city" name = "city">
+					<option value = "北京">北京市</option>
+					<option value = "上海">上海市</option>
+					<option value = "广州">广州市</option>
+				</select>
+			</td>
+		</tr>
+	</table>
+</form>
+	<input type = "button" value = "复选框测试" onclick = "checkboxFunc()"/><br/>
+	<input type = "button" value = "单选框测试" onclick = "radioboxFunc()"/><br/>
+	<input type = "button" value = "下拉列表测试" onclick = "selectFunc()"/>
+<script type="text/javascript" >
+	document.getElementById("name").focus();
+</script>
+</body>
+</html>

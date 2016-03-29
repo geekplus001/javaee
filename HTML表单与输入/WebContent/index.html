@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>个人信息表</h1>
+	<form action="">
+	<fieldset>
+	<legend>基本信息</legend>
+	姓名：<input type = "text" name = "like" value = "username"/>
+	密码：<input type = "password" name = "like" value = "pwd"/>
+	爱好：<input type = "checkbox" name = "like" value = "sing"/>唱歌
+		<input type = "checkbox" name = "like" value = "sleep"/>睡觉
+		<input type = "checkbox" name = "like"  value = "XO"/>泡妞
+	<br/>
+	</fieldset>
+	<fieldset>
+	<legend>其他信息</legend>
+	性别：<input type = "radio" name = "sex" value = "GG">帅哥
+		<input type = "radio" name = "sex" value = "MM">美女
+	<br/>
+	城市：
+		<select name = "city">
+			<option value = "bj">北京市</option>
+			<option value = "sh" selected = "selected">上海市</option>
+			<option value = "tj">天津市</option>
+			<optgroup label="广东省">
+				<option>广州市</option>
+				<option>中山市</option>
+			</optgroup>
+		</select>
+	<br/>
+	</fieldset>
+	自我介绍<br/><textarea rows = "10" cols = "40">请输入你的自我介绍信息...
+	</textarea>
+	<br/>
+	<input type = "button" value = "普通按钮"/>
+	<input type = "submit" value = "提交按钮" />
+	<input type = "reset" value = "重置" />
+	</form>
+	
+</body>
+</html>

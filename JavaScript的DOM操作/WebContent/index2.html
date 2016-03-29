@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript">
+	<!--
+		window.onload = function()
+		{
+			document.getElementById("btnAdd").onclick = function()
+			{
+				var e_p = document.createElement("p");
+				var text = document.createTextNode("新创建的段落");
+				e_p.appendChild(text);
+				document.getElementById("div1").appendChild(e_p);
+				//document.body.appendChild();
+			};
+			document.getElementById("btnRemove").onclick = function()
+			{
+				var div2 = document.getElementById("div2");
+				var p1 = document.getElementById("p1");
+				div2.removeChild(p1);
+			};
+		}
+	//-->
+</script>
+</head>
+<body>
+	<h1>动态的添加元素</h1>
+	<div id = "div1"></div>
+	<input type = "button" id = "btnAdd" value  = "添加元素"/>
+	<br/>
+	<div id = "div2">
+		<p id = "p1">第一个段落</p>
+		<p id = "p2">第二个段落</p>
+	</div>
+	<input type = "button" id = "btnRemove" value  = "删除元素"/>
+</body>
+</html>

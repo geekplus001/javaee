@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>DIV+CSS布局</title>
+<style type="text/css">
+	#container{
+		border:1px solid gray;
+		margin：0px;
+		width:100%
+		line-height:150%;
+	}
+	#header,#footer{
+		background-color:gray;
+		color：white;
+		padding:0.5em;
+	}
+	h1{
+		margin:0px;
+		padding:0px;
+	}
+	#left{
+		float:left;
+		width:150px;
+		margin:0px;
+		padding:1em;
+	}
+	#content{
+		margin-left:180px;
+		border-left:1px solid gray;
+		padding:1em;
+	}
+</style>
+</head>
+<body>
+	<div id = "container">
+		<div id = "header">
+			<h1>java.lampbrother.net</h1>
+		</div>
+		<div id = "left">
+			<p>
+				三从：。。。。。。四德：。。。。。。
+			</p>
+		</div>
+		<div id = "content">
+			<h2>想跳就跳</h2>
+			<p> 
+				恶心他妈给恶心开门，恶心到家了<br/>
+			</p>
+		</div>
+		<div id = "footer">
+			copy
+		</div>
+	</div>
+</body>
+</html>

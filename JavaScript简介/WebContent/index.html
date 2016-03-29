@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript">
+	function func1()
+	{
+		
+		alert("哈哈，你上当了！");
+	}
+	function func2()
+	{
+		var e_p = document.getElementById("p1");
+		e_p.innerHTML = "不同意";
+	}
+	function func3()
+	{
+		
+		var xb_img = document.getElementById("xb_img");
+		xb_img.src = "./img/QQ图片20150908191429.jpg";
+	}
+	function func4()
+	{
+		
+		var p2 = document.getElementById("p2");
+		p2.style.color = "#ff0000";
+	}
+	function func5()
+	{
+		
+		var  age = document.getElementById("age").value;
+		if(age==" " || isNaN(age))
+			{
+			
+			alert("请输入数字");
+			}
+	}
+</script>
+</head>
+<body>
+	<p id = "p1">小白帅哥，你同意吗？</p>
+	
+	<script type="text/javascript">
+		document.write("<p>小白是个大帅哥，你同意吗？</p>");
+	</script>
+	<input type = "button" value = "点我一下试试" onclick=(func1()) />
+	
+	<input type = "button" value = "点这里看看" onclick=(func2()) />
+	<br/>
+	<img id = "xb_img" alt="" src="./img/QQ图片20150908191411.jpg">
+	<br/>
+	<input type = "button" value = "换换" onclick = (func3()) />
+	<br/>
+	<p id = "p2">
+	小白是个猥琐但不下流的人！
+	</p>
+	<input type = "button" value = "变变变" onclick = (func4()) />
+	<br/>
+	<input type = "text" name = "age" id = "age"/>
+	<input type = "button" value = "验证" onclick = (func5()) />
+</body>
+</html>

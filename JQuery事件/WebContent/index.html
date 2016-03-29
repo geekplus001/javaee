@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src = "./jquery/jquery-1.11.3.js">
+	
+
+</script>
+<script type="text/javascript">
+	$(function(){
+		$("#b1").click(function(){
+			alert("哈哈哈哈哈");
+		});
+	});
+	$(function(){
+		$("#img1").mouseover(function(){
+			var val = $("#img1").attr("alt");
+			$("#div1").html(val);
+		});
+	});
+</script>
+</head>
+<body>
+	<input type = "button" id = "b1" value = "点我一下"/>
+	<br/>
+	<img id= "img1" alt="beauty" src="./img/QQ图片20150908191519.jpg">
+	<div id = "div1"></div>
+</body>
+</html>

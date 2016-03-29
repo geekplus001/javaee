@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<c3p0-config>
+	<named-config name="dbInfo">
+		<!-- 配置用户名密码、连接、驱动 -->
+		<property name="user">root</property>
+		<property name="password">1359212743</property>
+		<property name="jdbcUrl">jdbc:mysql://localhost:3306/book</property>
+		<property name="driverClass">com.mysql.jdbc.Driver</property>
+
+		<!-- 数据库连接池一次向数据库服务器要多少个连接 -->
+		<property name="acquireIncrement">10</property>
+		<!-- 初始化连接数 -->
+		<property name="initialPoolSize">10</property>
+		<!-- 最小连接数 -->
+		<property name="minPoolSize">10</property>
+		<!-- 最大连接数 -->
+		<property name="maxPoolSize">1000</property>
+		<!-- 数据库连接池能维护的最多的Statement的数目 -->
+		<property name="maxStatements">200</property>
+		<!-- 每个数据库连接可以创建多少个Statement -->
+		<property name="maxStatementPerConnection">200</property>
+
+
+		<!--定义在从数据库获取新连接失败后重复尝试的次数。默认值: 30 ；小于等于0表示无限次 -->
+		<property name="acquireRetryAttempts" value="0" />
+		<!--重新尝试的时间间隔，默认为：1000毫秒 -->
+		<property name="acquireRetryDelay" value="1000" />
+
+	</named-config>
+</c3p0-config>

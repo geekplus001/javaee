@@ -1,0 +1,69 @@
+package com.ben.Servlet;
+
+import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
+
+import javax.servlet.ServletException;
+import javax.servlet.ServletInputStream;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.pingplusplus.Pingpp;
+import com.pingplusplus.exception.PingppException;
+import com.pingplusplus.model.Charge;
+
+/**
+ * Servlet implementation class PayServlet
+ */
+public class PayServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    public PayServlet() {
+        super();
+    }
+
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+//		response.getWriter().append("Served at: ").append(request.getContextPath());
+		doPost(request, response);
+		
+	}
+
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+//		doGet(request, response);
+		request.setCharacterEncoding("utf-8");
+		Pingpp.apiKey = "sk_test_8yvPG8nXjfnP90KivHz1eH88";
+		
+		//获取客户端参数count channel
+		ServletInputStream in = request.getInputStream();
+		byte[] bytes = new byte[512];
+		int len = -1;
+		StringBuffer sb = new StringBuffer();
+		while((len=in.read(bytes))!=-1)
+		{
+			sb.append(new String(bytes,0,len));
+		}
+		
+		Map<String, Object> chargeMap = new HashMap<String, Object>();
+	    //某些渠道需要添加extra参数，具体参数详见接口文档
+	    chargeMap.put("amount", 100);
+	    chargeMap.put("currency", "cny");
+	    chargeMap.put("subject", "Your Subject");
+	    chargeMap.put("body", "Your Body");
+	    chargeMap.put("order_no", "123456789");
+	    chargeMap.put("channel", "alipay");
+	    chargeMap.put("client_ip", "127.0.0.1");
+	    Map<String, String> app = new HashMap<String, String>();
+	    app.put("id", "YOUR-APP-ID");
+	    chargeMap.put("app", app);
+	    try {
+	        //发起交易请求
+	        Charge charge = Charge.create(chargeMap);
+	        System.out.println(charge);
+	    } catch (PingppException e) {
+	        e.printStackTrace();
+	    }
+	}
+
+}

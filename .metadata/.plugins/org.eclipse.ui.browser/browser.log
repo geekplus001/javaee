@@ -1,0 +1,1112 @@
+
+12月 18, 2015 20:22:23.23 NEW SESSION
+12月 18, 2015 20:22:23.23 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+12月 18, 2015 20:22:23.23 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+12月 18, 2015 20:22:23.24 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+12月 18, 2015 20:22:32.21 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+12月 18, 2015 20:22:32.21 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+12月 18, 2015 20:22:32.21 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+12月 18, 2015 20:27:41.68 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+12月 18, 2015 20:27:41.68 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+12月 18, 2015 20:27:41.68 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+12月 18, 2015 20:29:59.27 console.error: commonfix: 
+12月 18, 2015 20:29:59.27   Message: ReferenceError: reason is not defined
+12月 18, 2015 20:29:59.27   Stack:
+12月 18, 2015 20:29:59.27     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 18, 2015 20:29:59.27 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+12月 18, 2015 20:29:59.27 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+12月 18, 2015 20:29:59.27 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+12月 18, 2015 20:29:59.27 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:72:7
+12月 18, 2015 20:29:59.27 unload@resource://gre/modules/commonjs/toolkit/loader.js:763:3
+12月 18, 2015 20:29:59.27 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Administrator/AppData/Roaming/Mozilla/Firefox/Profiles/hs0hr1ub.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 18, 2015 20:29:59.27 XPI_callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4774:9
+12月 18, 2015 20:29:59.28 shutdownObserver@resource://gre/modules/addons/XPIProvider.jsm:2508:13
+12月 18, 2015 20:29:59.28 
+
+12月 25, 2015 14:59:06.76 NEW SESSION
+12月 25, 2015 14:59:06.76 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+12月 25, 2015 14:59:06.79 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+12月 25, 2015 14:59:06.79 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+12月 25, 2015 15:03:40.97 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+12月 25, 2015 15:03:40.97 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+12月 25, 2015 15:03:40.97 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+12月 25, 2015 15:04:06.58 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+12月 25, 2015 15:04:06.59 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+12月 25, 2015 15:04:06.59 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+12月 25, 2015 15:10:06.22 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+12月 25, 2015 15:10:06.22 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+12月 25, 2015 15:10:06.22 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+12月 25, 2015 15:10:44.84 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+12月 25, 2015 15:10:44.84 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+12月 25, 2015 15:10:44.84 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+12月 25, 2015 15:11:04.20 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+12月 25, 2015 15:11:04.20 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+12月 25, 2015 15:11:04.21 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+12月 25, 2015 15:11:17.20 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+12月 25, 2015 15:11:17.20 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+12月 25, 2015 15:11:17.20 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+12月 25, 2015 15:12:24.52 1451027544529	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+12月 25, 2015 16:03:36.33 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+12月 25, 2015 16:03:36.33 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+12月 25, 2015 16:03:36.33 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+12月 25, 2015 17:03:03.48 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+12月 25, 2015 17:03:03.48 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+12月 25, 2015 17:03:03.48 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+12月 25, 2015 17:17:22.43 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+12月 25, 2015 17:17:22.43 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+12月 25, 2015 17:17:22.44 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+12月 25, 2015 17:34:41.76 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+12月 25, 2015 17:34:41.76 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+12月 25, 2015 17:34:41.76 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+12月 25, 2015 17:41:15.42 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+12月 25, 2015 17:41:15.43 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+12月 25, 2015 17:41:15.43 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+12月 25, 2015 18:06:05.41 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+12月 25, 2015 18:06:05.41 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+12月 25, 2015 18:06:05.41 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+12月 25, 2015 18:06:11.10 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+12月 25, 2015 18:06:11.10 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+12月 25, 2015 18:06:11.11 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+12月 25, 2015 18:15:32.43 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+12月 25, 2015 18:15:32.43 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+12月 25, 2015 18:15:32.43 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+12月 25, 2015 18:16:01.29 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+12月 25, 2015 18:16:01.29 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+12月 25, 2015 18:16:01.29 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15486:21
+
+12月 26, 2015 12:20:36.98 NEW SESSION
+12月 26, 2015 12:20:36.98 console.error: commonfix: 
+12月 26, 2015 12:20:37.04   Message: ReferenceError: reason is not defined
+12月 26, 2015 12:20:37.04   Stack:
+12月 26, 2015 12:20:37.04     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 26, 2015 12:20:37.04 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+12月 26, 2015 12:20:37.04 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+12月 26, 2015 12:20:37.04 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+12月 26, 2015 12:20:37.04 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:72:7
+12月 26, 2015 12:20:37.04 unload@resource://gre/modules/commonjs/toolkit/loader.js:774:3
+12月 26, 2015 12:20:37.04 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Administrator/AppData/Roaming/Mozilla/Firefox/Profiles/hs0hr1ub.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 26, 2015 12:20:37.04 XPI_callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4204:9
+12月 26, 2015 12:20:37.04 shutdownObserver@resource://gre/modules/addons/XPIProvider.jsm:2613:13
+12月 26, 2015 12:20:37.04 
+
+12月 27, 2015 14:03:52.07 NEW SESSION
+12月 27, 2015 14:03:52.07 1451196232072	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+12月 27, 2015 23:59:40.11 NEW SESSION
+12月 27, 2015 23:59:40.11 console.error: commonfix: 
+12月 27, 2015 23:59:40.13   Message: ReferenceError: reason is not defined
+12月 27, 2015 23:59:40.13   Stack:
+12月 27, 2015 23:59:40.13     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 27, 2015 23:59:40.13 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+12月 27, 2015 23:59:40.13 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+12月 27, 2015 23:59:40.14 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+12月 27, 2015 23:59:40.14 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:72:7
+12月 27, 2015 23:59:40.14 unload@resource://gre/modules/commonjs/toolkit/loader.js:774:3
+12月 27, 2015 23:59:40.14 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Administrator/AppData/Roaming/Mozilla/Firefox/Profiles/hs0hr1ub.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 27, 2015 23:59:40.14 XPI_callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4204:9
+12月 27, 2015 23:59:40.14 shutdownObserver@resource://gre/modules/addons/XPIProvider.jsm:2613:13
+12月 27, 2015 23:59:40.14 
+
+12月 28, 2015 15:39:37.45 NEW SESSION
+12月 28, 2015 15:39:37.45 console.error: commonfix: 
+12月 28, 2015 15:39:37.47   Message: ReferenceError: reason is not defined
+12月 28, 2015 15:39:37.47   Stack:
+12月 28, 2015 15:39:37.47     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 28, 2015 15:39:37.47 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+12月 28, 2015 15:39:37.47 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+12月 28, 2015 15:39:37.47 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+12月 28, 2015 15:39:37.47 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:72:7
+12月 28, 2015 15:39:37.47 unload@resource://gre/modules/commonjs/toolkit/loader.js:774:3
+12月 28, 2015 15:39:37.47 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Administrator/AppData/Roaming/Mozilla/Firefox/Profiles/hs0hr1ub.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 28, 2015 15:39:37.48 XPI_callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4204:9
+12月 28, 2015 15:39:37.48 shutdownObserver@resource://gre/modules/addons/XPIProvider.jsm:2613:13
+12月 28, 2015 15:39:37.48 
+
+12月 31, 2015 19:35:15.22 NEW SESSION
+12月 31, 2015 19:35:15.22 1451561715217	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+12月 31, 2015 20:13:19.99 console.error: commonfix: 
+12月 31, 2015 20:13:20.01   Message: ReferenceError: reason is not defined
+12月 31, 2015 20:13:20.01   Stack:
+12月 31, 2015 20:13:20.01     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+12月 31, 2015 20:13:20.01 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+12月 31, 2015 20:13:20.01 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+12月 31, 2015 20:13:20.01 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+12月 31, 2015 20:13:20.02 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:72:7
+12月 31, 2015 20:13:20.02 unload@resource://gre/modules/commonjs/toolkit/loader.js:774:3
+12月 31, 2015 20:13:20.02 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Administrator/AppData/Roaming/Mozilla/Firefox/Profiles/hs0hr1ub.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+12月 31, 2015 20:13:20.02 XPI_callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4204:9
+12月 31, 2015 20:13:20.02 shutdownObserver@resource://gre/modules/addons/XPIProvider.jsm:2613:13
+12月 31, 2015 20:13:20.02 
+
+1月 05, 2016 13:50:10.27 NEW SESSION
+1月 05, 2016 13:50:10.27 *************************
+1月 05, 2016 13:50:10.28 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.28 
+1月 05, 2016 13:50:10.28 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.28 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.28 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.28 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.28 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.28 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.29 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.29 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.29 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.29 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.29 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.29 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:10.29 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 05, 2016 13:50:10.29 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:10.29 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:10.30 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:10.30 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:10.30 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:10.30 
+1月 05, 2016 13:50:10.30 *************************
+1月 05, 2016 13:50:10.31 *************************
+1月 05, 2016 13:50:10.31 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.31 
+1月 05, 2016 13:50:10.31 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.31 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.31 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.32 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.32 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.32 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.32 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.32 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.32 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.34 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.34 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.34 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:10.34 AddonInstaller.InstallerService._installExtension/<@resource://addoninstaller/installerService.js:240:41
+1月 05, 2016 13:50:10.34 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:333:17
+1月 05, 2016 13:50:10.34 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:10.34 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:10.34 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:10.35 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:10.35 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:10.35 
+1月 05, 2016 13:50:10.35 *************************
+1月 05, 2016 13:50:10.37 *************************
+1月 05, 2016 13:50:10.37 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.37 
+1月 05, 2016 13:50:10.38 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.38 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.38 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.38 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.38 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.38 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.38 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.38 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.38 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.38 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.39 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.39 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:10.39 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 05, 2016 13:50:10.39 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:10.39 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:10.39 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:10.39 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:10.39 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:10.39 
+1月 05, 2016 13:50:10.39 *************************
+1月 05, 2016 13:50:10.39 *************************
+1月 05, 2016 13:50:10.39 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.40 
+1月 05, 2016 13:50:10.40 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.40 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.40 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.40 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.40 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.40 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.40 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.40 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.40 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.40 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.41 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.41 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:10.41 AddonInstaller.InstallerService._installExtension/<@resource://addoninstaller/installerService.js:240:41
+1月 05, 2016 13:50:10.41 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:333:17
+1月 05, 2016 13:50:10.41 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:10.41 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:10.41 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:10.41 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:10.41 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:10.41 
+1月 05, 2016 13:50:10.41 *************************
+1月 05, 2016 13:50:10.45 *************************
+1月 05, 2016 13:50:10.45 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.45 
+1月 05, 2016 13:50:10.45 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.46 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.46 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.46 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.46 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.46 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.46 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.46 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.46 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.46 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.46 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.46 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:10.47 AddonInstaller.InstallerService._installExtension/<@resource://addoninstaller/installerService.js:240:41
+1月 05, 2016 13:50:10.47 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:333:17
+1月 05, 2016 13:50:10.47 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:10.47 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:10.47 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:10.47 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:10.47 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:10.48 
+1月 05, 2016 13:50:10.48 *************************
+1月 05, 2016 13:50:10.49 *************************
+1月 05, 2016 13:50:10.49 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.49 
+1月 05, 2016 13:50:10.50 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.50 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.50 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.50 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.50 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.51 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.52 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.52 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.53 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.53 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.53 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.53 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:10.53 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 05, 2016 13:50:10.54 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:10.54 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:10.54 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:10.54 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:10.54 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:10.54 
+1月 05, 2016 13:50:10.54 *************************
+1月 05, 2016 13:50:10.54 *************************
+1月 05, 2016 13:50:10.54 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.54 
+1月 05, 2016 13:50:10.54 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.54 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.54 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.55 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.55 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.55 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.55 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.55 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.55 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.55 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.55 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.55 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:10.55 AddonInstaller.InstallerService._installExtension/<@resource://addoninstaller/installerService.js:240:41
+1月 05, 2016 13:50:10.55 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:333:17
+1月 05, 2016 13:50:10.56 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:10.56 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:10.56 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:10.56 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:10.56 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:10.56 
+1月 05, 2016 13:50:10.56 *************************
+1月 05, 2016 13:50:10.64 *************************
+1月 05, 2016 13:50:10.65 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.65 
+1月 05, 2016 13:50:10.65 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.66 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.66 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.66 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.66 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.66 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.66 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.66 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.66 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.66 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.66 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.67 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:10.67 AddonInstaller.InstallerService._installExtension/<@resource://addoninstaller/installerService.js:240:41
+1月 05, 2016 13:50:10.67 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:333:17
+1月 05, 2016 13:50:10.67 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:10.67 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:10.67 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:10.67 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:10.67 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:10.67 
+1月 05, 2016 13:50:10.67 *************************
+1月 05, 2016 13:50:10.68 *************************
+1月 05, 2016 13:50:10.68 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.68 
+1月 05, 2016 13:50:10.68 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.68 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.68 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.69 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.69 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.69 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.69 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.69 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.69 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.69 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.69 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.69 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:10.69 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 05, 2016 13:50:10.69 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:10.69 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:10.70 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:10.70 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:10.70 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:10.70 
+1月 05, 2016 13:50:10.70 *************************
+1月 05, 2016 13:50:10.70 *************************
+1月 05, 2016 13:50:10.71 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.71 
+1月 05, 2016 13:50:10.71 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.71 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.71 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.71 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.71 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.71 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.71 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.71 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.72 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.72 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.72 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.72 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:10.72 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 05, 2016 13:50:10.72 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:10.72 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:10.73 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:10.73 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:10.73 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:10.73 
+1月 05, 2016 13:50:10.73 *************************
+1月 05, 2016 13:50:10.74 *************************
+1月 05, 2016 13:50:10.74 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.75 
+1月 05, 2016 13:50:10.75 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.75 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.75 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.75 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.75 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.75 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.75 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.75 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.75 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.75 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.76 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.76 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:10.76 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 05, 2016 13:50:10.76 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:10.76 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:10.76 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:10.76 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:10.76 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:10.76 
+1月 05, 2016 13:50:10.76 *************************
+1月 05, 2016 13:50:10.78 *************************
+1月 05, 2016 13:50:10.78 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.78 
+1月 05, 2016 13:50:10.78 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.78 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.78 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.78 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.78 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.78 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.79 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.79 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.79 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.79 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.79 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.79 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:10.79 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 05, 2016 13:50:10.79 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:10.79 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:10.79 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:10.80 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:10.80 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:10.80 
+1月 05, 2016 13:50:10.80 *************************
+1月 05, 2016 13:50:10.80 *************************
+1月 05, 2016 13:50:10.80 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.80 
+1月 05, 2016 13:50:10.80 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.80 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.80 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.80 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.80 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.81 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.81 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.81 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.81 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.81 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.81 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.81 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:10.81 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 05, 2016 13:50:10.81 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:10.81 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:10.81 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:10.82 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:10.82 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:10.82 
+1月 05, 2016 13:50:10.82 *************************
+1月 05, 2016 13:50:10.82 *************************
+1月 05, 2016 13:50:10.82 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.82 
+1月 05, 2016 13:50:10.82 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.82 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.82 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.82 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.82 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.82 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.83 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.83 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.83 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.83 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.83 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.83 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:10.83 AddonInstaller.InstallerService._installExtension/<@resource://addoninstaller/installerService.js:240:41
+1月 05, 2016 13:50:10.83 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:333:17
+1月 05, 2016 13:50:10.83 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:10.83 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:10.84 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:10.84 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:10.84 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:10.84 
+1月 05, 2016 13:50:10.84 *************************
+1月 05, 2016 13:50:10.84 *************************
+1月 05, 2016 13:50:10.84 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.84 
+1月 05, 2016 13:50:10.85 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.85 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.85 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.85 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.85 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.85 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.85 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.85 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.85 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.85 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.85 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.86 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:10.86 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 05, 2016 13:50:10.86 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:10.86 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:10.86 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:10.86 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:10.86 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:10.86 
+1月 05, 2016 13:50:10.86 *************************
+1月 05, 2016 13:50:10.87 *************************
+1月 05, 2016 13:50:10.87 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.87 
+1月 05, 2016 13:50:10.87 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.87 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.87 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.87 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.87 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.87 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.87 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.87 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.87 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.88 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.88 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.88 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:10.88 AddonInstaller.InstallerService._installExtension/<@resource://addoninstaller/installerService.js:240:41
+1月 05, 2016 13:50:10.88 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:333:17
+1月 05, 2016 13:50:10.88 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:10.88 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:10.88 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:10.88 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:10.89 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:10.89 
+1月 05, 2016 13:50:10.89 *************************
+1月 05, 2016 13:50:10.89 *************************
+1月 05, 2016 13:50:10.89 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.89 
+1月 05, 2016 13:50:10.89 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.89 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.90 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.90 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.90 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.90 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.90 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.90 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.90 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.91 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.91 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.91 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:10.91 AddonInstaller.InstallerService._installExtension/<@resource://addoninstaller/installerService.js:240:41
+1月 05, 2016 13:50:10.91 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:333:17
+1月 05, 2016 13:50:10.91 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:10.91 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:10.91 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:10.91 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:10.92 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:10.92 
+1月 05, 2016 13:50:10.92 *************************
+1月 05, 2016 13:50:10.92 *************************
+1月 05, 2016 13:50:10.92 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.92 
+1月 05, 2016 13:50:10.92 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.92 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.92 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.92 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.92 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.92 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.93 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.93 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.93 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.93 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.93 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.93 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:10.93 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 05, 2016 13:50:10.93 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:10.93 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:10.93 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:10.93 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:10.93 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:10.93 
+1月 05, 2016 13:50:10.94 *************************
+1月 05, 2016 13:50:10.94 *************************
+1月 05, 2016 13:50:10.94 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.94 
+1月 05, 2016 13:50:10.94 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.94 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.94 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.94 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.94 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.94 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.94 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.94 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.94 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.95 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.95 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.95 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:10.95 AddonInstaller.InstallerService._installExtension/<@resource://addoninstaller/installerService.js:240:41
+1月 05, 2016 13:50:10.95 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:333:17
+1月 05, 2016 13:50:10.95 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:10.95 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:10.95 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:10.95 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:10.95 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:10.95 
+1月 05, 2016 13:50:10.95 *************************
+1月 05, 2016 13:50:10.95 *************************
+1月 05, 2016 13:50:10.95 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.95 
+1月 05, 2016 13:50:10.96 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.96 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.96 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.96 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.96 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.96 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.96 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.96 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.96 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.96 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.96 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.97 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:10.97 AddonInstaller.InstallerService._installExtension/<@resource://addoninstaller/installerService.js:240:41
+1月 05, 2016 13:50:10.97 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:333:17
+1月 05, 2016 13:50:10.97 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:10.97 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:10.97 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:10.97 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:10.97 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:10.98 
+1月 05, 2016 13:50:10.98 *************************
+1月 05, 2016 13:50:10.98 *************************
+1月 05, 2016 13:50:10.98 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:10.98 
+1月 05, 2016 13:50:10.98 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:10.99 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:10.99 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:10.99 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:10.99 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.99 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.99 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.99 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:10.99 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:10.99 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:10.99 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:10.99 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:11.00 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 05, 2016 13:50:11.00 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:11.00 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:11.00 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:11.00 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:11.00 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:11.00 
+1月 05, 2016 13:50:11.01 *************************
+1月 05, 2016 13:50:11.01 *************************
+1月 05, 2016 13:50:11.01 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:11.01 
+1月 05, 2016 13:50:11.01 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:11.01 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:11.01 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:11.01 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:11.01 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:11.01 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:11.01 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:11.02 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:11.02 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:11.02 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:11.02 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:11.02 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:11.02 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 05, 2016 13:50:11.02 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:11.02 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:11.02 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:11.03 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:11.03 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:11.03 
+1月 05, 2016 13:50:11.03 *************************
+1月 05, 2016 13:50:11.03 *************************
+1月 05, 2016 13:50:11.03 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:11.03 
+1月 05, 2016 13:50:11.03 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:11.03 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:11.04 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:11.04 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:11.04 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:11.04 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:11.04 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:11.04 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:11.04 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:11.04 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:11.05 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:11.05 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:11.05 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 05, 2016 13:50:11.05 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:11.05 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:11.05 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:11.05 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:11.05 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:11.05 
+1月 05, 2016 13:50:11.05 *************************
+1月 05, 2016 13:50:11.06 *************************
+1月 05, 2016 13:50:11.06 A coding exception was thrown and uncaught in a Task.
+1月 05, 2016 13:50:11.06 
+1月 05, 2016 13:50:11.06 Full message: TypeError: aAddon._installLocation is undefined
+1月 05, 2016 13:50:11.07 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 05, 2016 13:50:11.07 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 05, 2016 13:50:11.07 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 05, 2016 13:50:11.07 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:11.07 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:11.07 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:11.07 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 05, 2016 13:50:11.07 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 05, 2016 13:50:11.07 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 05, 2016 13:50:11.07 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 05, 2016 13:50:11.07 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 05, 2016 13:50:11.08 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 05, 2016 13:50:11.08 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 05, 2016 13:50:11.08 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 05, 2016 13:50:11.08 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 05, 2016 13:50:11.08 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 05, 2016 13:50:11.08 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 05, 2016 13:50:11.08 
+1月 05, 2016 13:50:11.08 *************************
+1月 05, 2016 13:50:11.37 1451973011369	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/zh-CN/firefox/api/1.5/search/guid:xthunder%40lshai.com?src=firefox&appOS=WINNT&appVersion=43.0.3 aMaxResults 1
+1月 05, 2016 13:50:11.37 1451973011369	addons.repository	WARN	Search failed when adding add-ons to cache
+1月 05, 2016 13:50:11.37 1451973011377	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/zh-CN/firefox/api/1.5/search/guid:youdao-translate%40mozillaonline.com?src=firefox&appOS=WINNT&appVersion=43.0.3 aMaxResults 1
+1月 05, 2016 13:50:11.37 1451973011377	addons.repository	WARN	Search failed when adding add-ons to cache
+1月 05, 2016 13:50:11.38 1451973011385	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/zh-CN/firefox/api/1.5/search/guid:personas%40mozillaonline.com?src=firefox&appOS=WINNT&appVersion=43.0.3 aMaxResults 1
+1月 05, 2016 13:50:11.38 1451973011385	addons.repository	WARN	Search failed when adding add-ons to cache
+1月 05, 2016 13:50:11.39 1451973011395	addons.repository	WARN	AddonRepository search failed: searching true aURI https://services.addons.mozilla.org/zh-CN/firefox/api/1.5/search/guid:quicklaunch%40mozillaonline.com?src=firefox&appOS=WINNT&appVersion=43.0.3 aMaxResults 1
+1月 05, 2016 13:50:11.39 1451973011396	addons.repository	WARN	Search failed when adding add-ons to cache
+1月 05, 2016 14:04:08.74 1451973848747	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1月 05, 2016 14:07:43.17 console.error: commonfix: 
+1月 05, 2016 14:07:43.17   Message: ReferenceError: reason is not defined
+1月 05, 2016 14:07:43.17   Stack:
+1月 05, 2016 14:07:43.17     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+1月 05, 2016 14:07:43.17 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+1月 05, 2016 14:07:43.17 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+1月 05, 2016 14:07:43.17 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+1月 05, 2016 14:07:43.17 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:72:7
+1月 05, 2016 14:07:43.17 unload@resource://gre/modules/commonjs/toolkit/loader.js:774:3
+1月 05, 2016 14:07:43.18 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Administrator/AppData/Roaming/Mozilla/Firefox/Profiles/hs0hr1ub.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+1月 05, 2016 14:07:43.18 XPI_callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4204:9
+1月 05, 2016 14:07:43.18 shutdownObserver@resource://gre/modules/addons/XPIProvider.jsm:2613:13
+1月 05, 2016 14:07:43.18 
+
+1月 10, 2016 14:49:24.00 NEW SESSION
+1月 10, 2016 14:49:24.00 *************************
+1月 10, 2016 14:49:24.02 A coding exception was thrown and uncaught in a Task.
+1月 10, 2016 14:49:24.02 
+1月 10, 2016 14:49:24.02 Full message: TypeError: aAddon._installLocation is undefined
+1月 10, 2016 14:49:24.02 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 10, 2016 14:49:24.02 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 10, 2016 14:49:24.02 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 10, 2016 14:49:24.02 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.02 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.02 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.02 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 10, 2016 14:49:24.02 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.03 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.03 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.03 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 10, 2016 14:49:24.03 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 10, 2016 14:49:24.03 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 10, 2016 14:49:24.03 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 10, 2016 14:49:24.03 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 10, 2016 14:49:24.03 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 10, 2016 14:49:24.03 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 10, 2016 14:49:24.04 
+1月 10, 2016 14:49:24.04 *************************
+1月 10, 2016 14:49:24.05 *************************
+1月 10, 2016 14:49:24.05 A coding exception was thrown and uncaught in a Task.
+1月 10, 2016 14:49:24.05 
+1月 10, 2016 14:49:24.05 Full message: TypeError: aAddon._installLocation is undefined
+1月 10, 2016 14:49:24.05 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 10, 2016 14:49:24.05 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 10, 2016 14:49:24.06 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 10, 2016 14:49:24.06 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.06 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.06 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.06 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 10, 2016 14:49:24.06 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.06 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.06 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.07 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 10, 2016 14:49:24.07 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 10, 2016 14:49:24.07 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 10, 2016 14:49:24.07 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 10, 2016 14:49:24.07 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 10, 2016 14:49:24.07 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 10, 2016 14:49:24.07 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 10, 2016 14:49:24.07 
+1月 10, 2016 14:49:24.07 *************************
+1月 10, 2016 14:49:24.10 *************************
+1月 10, 2016 14:49:24.10 A coding exception was thrown and uncaught in a Task.
+1月 10, 2016 14:49:24.11 
+1月 10, 2016 14:49:24.11 Full message: TypeError: aAddon._installLocation is undefined
+1月 10, 2016 14:49:24.11 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 10, 2016 14:49:24.11 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 10, 2016 14:49:24.11 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 10, 2016 14:49:24.11 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.11 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.12 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.12 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 10, 2016 14:49:24.12 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.12 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.12 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.12 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 10, 2016 14:49:24.13 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 10, 2016 14:49:24.13 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 10, 2016 14:49:24.13 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 10, 2016 14:49:24.13 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 10, 2016 14:49:24.13 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 10, 2016 14:49:24.13 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 10, 2016 14:49:24.14 
+1月 10, 2016 14:49:24.14 *************************
+1月 10, 2016 14:49:24.16 *************************
+1月 10, 2016 14:49:24.16 A coding exception was thrown and uncaught in a Task.
+1月 10, 2016 14:49:24.16 
+1月 10, 2016 14:49:24.16 Full message: TypeError: aAddon._installLocation is undefined
+1月 10, 2016 14:49:24.17 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 10, 2016 14:49:24.17 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 10, 2016 14:49:24.17 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 10, 2016 14:49:24.17 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.17 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.17 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.17 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 10, 2016 14:49:24.17 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.17 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.18 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.18 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 10, 2016 14:49:24.18 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 10, 2016 14:49:24.18 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 10, 2016 14:49:24.18 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 10, 2016 14:49:24.18 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 10, 2016 14:49:24.18 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 10, 2016 14:49:24.18 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 10, 2016 14:49:24.18 
+1月 10, 2016 14:49:24.19 *************************
+1月 10, 2016 14:49:24.19 *************************
+1月 10, 2016 14:49:24.19 A coding exception was thrown and uncaught in a Task.
+1月 10, 2016 14:49:24.19 
+1月 10, 2016 14:49:24.19 Full message: TypeError: aAddon._installLocation is undefined
+1月 10, 2016 14:49:24.19 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 10, 2016 14:49:24.19 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 10, 2016 14:49:24.19 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 10, 2016 14:49:24.19 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.20 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.20 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.20 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 10, 2016 14:49:24.20 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.20 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.21 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.21 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 10, 2016 14:49:24.21 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 10, 2016 14:49:24.21 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 10, 2016 14:49:24.21 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 10, 2016 14:49:24.21 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 10, 2016 14:49:24.21 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 10, 2016 14:49:24.21 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 10, 2016 14:49:24.21 
+1月 10, 2016 14:49:24.22 *************************
+1月 10, 2016 14:49:24.22 *************************
+1月 10, 2016 14:49:24.22 A coding exception was thrown and uncaught in a Task.
+1月 10, 2016 14:49:24.22 
+1月 10, 2016 14:49:24.22 Full message: TypeError: aAddon._installLocation is undefined
+1月 10, 2016 14:49:24.22 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 10, 2016 14:49:24.22 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 10, 2016 14:49:24.22 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 10, 2016 14:49:24.22 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.22 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.23 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.23 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 10, 2016 14:49:24.23 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.23 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.23 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.23 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 10, 2016 14:49:24.23 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 10, 2016 14:49:24.23 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 10, 2016 14:49:24.23 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 10, 2016 14:49:24.23 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 10, 2016 14:49:24.24 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 10, 2016 14:49:24.24 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 10, 2016 14:49:24.24 
+1月 10, 2016 14:49:24.24 *************************
+1月 10, 2016 14:49:24.25 *************************
+1月 10, 2016 14:49:24.25 A coding exception was thrown and uncaught in a Task.
+1月 10, 2016 14:49:24.25 
+1月 10, 2016 14:49:24.25 Full message: TypeError: aAddon._installLocation is undefined
+1月 10, 2016 14:49:24.25 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 10, 2016 14:49:24.25 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 10, 2016 14:49:24.25 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 10, 2016 14:49:24.25 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.25 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.26 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.26 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 10, 2016 14:49:24.26 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.26 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.26 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.26 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 10, 2016 14:49:24.26 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 10, 2016 14:49:24.26 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 10, 2016 14:49:24.26 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 10, 2016 14:49:24.27 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 10, 2016 14:49:24.27 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 10, 2016 14:49:24.27 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 10, 2016 14:49:24.27 
+1月 10, 2016 14:49:24.27 *************************
+1月 10, 2016 14:49:24.27 *************************
+1月 10, 2016 14:49:24.27 A coding exception was thrown and uncaught in a Task.
+1月 10, 2016 14:49:24.27 
+1月 10, 2016 14:49:24.27 Full message: TypeError: aAddon._installLocation is undefined
+1月 10, 2016 14:49:24.27 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 10, 2016 14:49:24.28 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 10, 2016 14:49:24.28 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 10, 2016 14:49:24.28 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.28 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.28 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.28 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 10, 2016 14:49:24.28 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.28 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.28 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.29 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 10, 2016 14:49:24.29 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 10, 2016 14:49:24.29 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 10, 2016 14:49:24.29 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 10, 2016 14:49:24.29 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 10, 2016 14:49:24.29 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 10, 2016 14:49:24.29 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 10, 2016 14:49:24.29 
+1月 10, 2016 14:49:24.29 *************************
+1月 10, 2016 14:49:24.29 *************************
+1月 10, 2016 14:49:24.29 A coding exception was thrown and uncaught in a Task.
+1月 10, 2016 14:49:24.30 
+1月 10, 2016 14:49:24.30 Full message: TypeError: aAddon._installLocation is undefined
+1月 10, 2016 14:49:24.30 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 10, 2016 14:49:24.30 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 10, 2016 14:49:24.30 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 10, 2016 14:49:24.30 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.30 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.30 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.30 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 10, 2016 14:49:24.30 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.31 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.31 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.31 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 10, 2016 14:49:24.31 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 10, 2016 14:49:24.31 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 10, 2016 14:49:24.31 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 10, 2016 14:49:24.31 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 10, 2016 14:49:24.31 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 10, 2016 14:49:24.31 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 10, 2016 14:49:24.31 
+1月 10, 2016 14:49:24.32 *************************
+1月 10, 2016 14:49:24.32 *************************
+1月 10, 2016 14:49:24.32 A coding exception was thrown and uncaught in a Task.
+1月 10, 2016 14:49:24.32 
+1月 10, 2016 14:49:24.32 Full message: TypeError: aAddon._installLocation is undefined
+1月 10, 2016 14:49:24.32 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 10, 2016 14:49:24.32 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 10, 2016 14:49:24.32 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 10, 2016 14:49:24.32 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.32 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.32 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.33 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 10, 2016 14:49:24.33 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.33 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.33 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.33 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 10, 2016 14:49:24.33 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 10, 2016 14:49:24.33 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 10, 2016 14:49:24.33 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 10, 2016 14:49:24.33 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 10, 2016 14:49:24.33 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 10, 2016 14:49:24.33 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 10, 2016 14:49:24.34 
+1月 10, 2016 14:49:24.34 *************************
+1月 10, 2016 14:49:24.34 *************************
+1月 10, 2016 14:49:24.34 A coding exception was thrown and uncaught in a Task.
+1月 10, 2016 14:49:24.34 
+1月 10, 2016 14:49:24.34 Full message: TypeError: aAddon._installLocation is undefined
+1月 10, 2016 14:49:24.34 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 10, 2016 14:49:24.34 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 10, 2016 14:49:24.34 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 10, 2016 14:49:24.35 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.35 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.35 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.35 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 10, 2016 14:49:24.35 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.35 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.35 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.36 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 10, 2016 14:49:24.36 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 10, 2016 14:49:24.36 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 10, 2016 14:49:24.36 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 10, 2016 14:49:24.36 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 10, 2016 14:49:24.36 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 10, 2016 14:49:24.36 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 10, 2016 14:49:24.36 
+1月 10, 2016 14:49:24.36 *************************
+1月 10, 2016 14:49:24.37 *************************
+1月 10, 2016 14:49:24.37 A coding exception was thrown and uncaught in a Task.
+1月 10, 2016 14:49:24.37 
+1月 10, 2016 14:49:24.37 Full message: TypeError: aAddon._installLocation is undefined
+1月 10, 2016 14:49:24.37 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 10, 2016 14:49:24.37 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 10, 2016 14:49:24.37 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 10, 2016 14:49:24.38 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.38 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.38 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.38 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 10, 2016 14:49:24.38 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.38 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.38 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.38 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 10, 2016 14:49:24.38 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 10, 2016 14:49:24.39 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 10, 2016 14:49:24.39 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 10, 2016 14:49:24.39 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 10, 2016 14:49:24.39 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 10, 2016 14:49:24.39 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 10, 2016 14:49:24.39 
+1月 10, 2016 14:49:24.39 *************************
+1月 10, 2016 14:49:24.39 *************************
+1月 10, 2016 14:49:24.39 A coding exception was thrown and uncaught in a Task.
+1月 10, 2016 14:49:24.39 
+1月 10, 2016 14:49:24.40 Full message: TypeError: aAddon._installLocation is undefined
+1月 10, 2016 14:49:24.40 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 10, 2016 14:49:24.40 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 10, 2016 14:49:24.40 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 10, 2016 14:49:24.40 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.40 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.40 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.40 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 10, 2016 14:49:24.41 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.41 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.41 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.41 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 10, 2016 14:49:24.41 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 10, 2016 14:49:24.41 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 10, 2016 14:49:24.41 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 10, 2016 14:49:24.41 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 10, 2016 14:49:24.41 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 10, 2016 14:49:24.41 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 10, 2016 14:49:24.41 
+1月 10, 2016 14:49:24.41 *************************
+1月 10, 2016 14:49:24.41 *************************
+1月 10, 2016 14:49:24.41 A coding exception was thrown and uncaught in a Task.
+1月 10, 2016 14:49:24.42 
+1月 10, 2016 14:49:24.42 Full message: TypeError: aAddon._installLocation is undefined
+1月 10, 2016 14:49:24.42 Full stack: shouldVerifySignedState@resource://gre/modules/addons/XPIProvider.jsm:1530:1
+1月 10, 2016 14:49:24.43 verifyZipSignedState@resource://gre/modules/addons/XPIProvider.jsm:1556:8
+1月 10, 2016 14:49:24.43 loadManifestFromZipReader@resource://gre/modules/addons/XPIProvider.jsm:1287:31
+1月 10, 2016 14:49:24.43 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.43 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.43 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.43 loadManifestFromZipFile@resource://gre/modules/addons/XPIProvider.jsm:1317:26
+1月 10, 2016 14:49:24.43 TaskImpl_run@resource://gre/modules/Task.jsm:314:40
+1月 10, 2016 14:49:24.43 TaskImpl@resource://gre/modules/Task.jsm:275:3
+1月 10, 2016 14:49:24.43 createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:249:14
+1月 10, 2016 14:49:24.44 loadManifestFromFile@resource://gre/modules/addons/XPIProvider.jsm:1327:12
+1月 10, 2016 14:49:24.44 AddonInstaller.InstallerService._shouldInstall/<@resource://addoninstaller/installerService.js:341:49
+1月 10, 2016 14:49:24.44 safeCall@resource://gre/modules/AddonManager.jsm:173:5
+1月 10, 2016 14:49:24.44 makeSafe/<@resource://gre/modules/AddonManager.jsm:189:25
+1月 10, 2016 14:49:24.44 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:934:23
+1月 10, 2016 14:49:24.44 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:813:7
+1月 10, 2016 14:49:24.44 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:747:1
+1月 10, 2016 14:49:24.44 
+1月 10, 2016 14:49:24.45 *************************
+1月 10, 2016 14:57:42.30 console.error: commonfix: 
+1月 10, 2016 14:57:42.33   Message: ReferenceError: reason is not defined
+1月 10, 2016 14:57:42.34   Stack:
+1月 10, 2016 14:57:42.34     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+1月 10, 2016 14:57:42.34 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+1月 10, 2016 14:57:42.34 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+1月 10, 2016 14:57:42.34 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+1月 10, 2016 14:57:42.34 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:72:7
+1月 10, 2016 14:57:42.34 unload@resource://gre/modules/commonjs/toolkit/loader.js:774:3
+1月 10, 2016 14:57:42.34 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Administrator/AppData/Roaming/Mozilla/Firefox/Profiles/hs0hr1ub.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+1月 10, 2016 14:57:42.35 XPI_callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4204:9
+1月 10, 2016 14:57:42.35 shutdownObserver@resource://gre/modules/addons/XPIProvider.jsm:2613:13
+1月 10, 2016 14:57:42.35 
+
+1月 20, 2016 15:17:26.54 NEW SESSION
+1月 20, 2016 15:17:26.54 console.error: commonfix: 
+1月 20, 2016 15:17:26.57   Message: ReferenceError: reason is not defined
+1月 20, 2016 15:17:26.57   Stack:
+1月 20, 2016 15:17:26.57     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+1月 20, 2016 15:17:26.57 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+1月 20, 2016 15:17:26.57 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+1月 20, 2016 15:17:26.57 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+1月 20, 2016 15:17:26.57 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:72:7
+1月 20, 2016 15:17:26.57 unload@resource://gre/modules/commonjs/toolkit/loader.js:774:3
+1月 20, 2016 15:17:26.57 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Administrator/AppData/Roaming/Mozilla/Firefox/Profiles/hs0hr1ub.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+1月 20, 2016 15:17:26.57 XPI_callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4204:9
+1月 20, 2016 15:17:26.57 shutdownObserver@resource://gre/modules/addons/XPIProvider.jsm:2613:13
+1月 20, 2016 15:17:26.58 
+
+1月 26, 2016 12:34:07.21 NEW SESSION
+1月 26, 2016 12:34:07.22 1453782847214	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1月 26, 2016 13:05:13.77 console.error: commonfix: 
+1月 26, 2016 13:05:13.78   Message: ReferenceError: reason is not defined
+1月 26, 2016 13:05:13.78   Stack:
+1月 26, 2016 13:05:13.79     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+1月 26, 2016 13:05:13.79 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+1月 26, 2016 13:05:13.79 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+1月 26, 2016 13:05:13.79 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+1月 26, 2016 13:05:13.79 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:72:7
+1月 26, 2016 13:05:13.79 unload@resource://gre/modules/commonjs/toolkit/loader.js:774:3
+1月 26, 2016 13:05:13.79 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Administrator/AppData/Roaming/Mozilla/Firefox/Profiles/hs0hr1ub.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+1月 26, 2016 13:05:13.79 XPI_callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4204:9
+1月 26, 2016 13:05:13.79 shutdownObserver@resource://gre/modules/addons/XPIProvider.jsm:2613:13
+1月 26, 2016 13:05:13.80 
+
+3月 24, 2016 17:36:02.68 NEW SESSION
+3月 24, 2016 17:36:02.68 1458812162679	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+3月 24, 2016 17:36:03.75 1458812163756	addons.xpi	ERROR	Failed to clean updated system add-ons directories.: Win error 2 during operation DirectoryIterator.prototype.next on file C:\Users\Administrator\AppData\Roaming\Mozilla\Firefox\Profiles\hs0hr1ub.default\features (绯荤粺鎵句笉鍒版寚瀹氱殑鏂囦欢銆�
+3月 24, 2016 17:36:03.75 
+3月 24, 2016 17:36:03.75 ) ((unknown module)) No traceback available
+3月 24, 2016 19:17:47.26 console.error: commonfix: 
+3月 24, 2016 19:17:47.30   Message: ReferenceError: reason is not defined
+3月 24, 2016 19:17:47.30   Stack:
+3月 24, 2016 19:17:47.31     exports.onUnload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://commonfix-at-mozillaonline-dot-com/commonfix/lib/main.js:316:1
+3月 24, 2016 19:17:47.31 unload/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:58:7
+3月 24, 2016 19:17:47.31 unload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:56:3
+3月 24, 2016 19:17:47.31 onunload@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/unload.js:77:5
+3月 24, 2016 19:17:47.31 Observer<.observe@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/events.js:72:7
+3月 24, 2016 19:17:47.31 unload@resource://gre/modules/commonjs/toolkit/loader.js:774:3
+3月 24, 2016 19:17:47.31 shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Administrator/AppData/Roaming/Mozilla/Firefox/Profiles/hs0hr1ub.default/extensions/commonfix@mozillaonline.com.xpi!/bootstrap.js:303:5
+3月 24, 2016 19:17:47.31 XPI_callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4462:9
+3月 24, 2016 19:17:47.31 shutdownObserver@resource://gre/modules/addons/XPIProvider.jsm:2703:13
+3月 24, 2016 19:17:47.32 

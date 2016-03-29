@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+</head>
+<body>
+	<div id = "div1"></div>
+	
+	
+	<script type="text/javascript">
+	//var str = "java.lampbrother.net";
+	var str = new String("java.lampbrother.net");
+	var len = str.length;
+	var upperStr = str.toUpperCase();
+	document.getElementById("div1").innerHTML  = upperStr;
+	var c = str.charAt(5);
+	document.getElementById("div1").innerHTML  = c;
+	var index = str.indexOf("a");
+	document.getElementById("div1").innerHTML  = index;
+	var  sub = str.substring(5,16);
+	document.getElementById("div1").innerHTML  = sub;
+	var a = str.split(".");
+	for(var x in a){
+		document.write(a[x]+"<br/>");
+	}
+</script>
+</body>
+</html>

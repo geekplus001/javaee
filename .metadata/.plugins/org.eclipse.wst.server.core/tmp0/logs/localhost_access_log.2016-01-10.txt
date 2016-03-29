@@ -1,0 +1,6 @@
+127.0.0.1 - - [10/Jan/2016:14:49:01 +0800] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [10/Jan/2016:14:49:27 +0800] "GET /Android_XmlServer/index.jsp HTTP/1.1" 200 260
+0:0:0:0:0:0:0:1 - - [10/Jan/2016:14:49:28 +0800] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [10/Jan/2016:14:49:29 +0800] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [10/Jan/2016:14:49:49 +0800] "GET /Android_XmlServer/XmlServlet HTTP/1.1" 200 97
+127.0.0.1 - - [10/Jan/2016:14:56:36 +0800] "POST /Android_XmlServer/XmlServlet HTTP/1.1" 200 97

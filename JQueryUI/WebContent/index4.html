@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src = "./jquery/jquery-1.11.3.js"></script>
+<script type="text/javascript" src = "./jquery/jquery-ui.js"></script>
+<script type="text/javascript" src = "./jquery/jquery-ui.css"></script>
+<link href = "./jquery/jquery-ui.css" rel = "stylesheet"/>
+ <script>
+  $(function() {
+	$.datepicker.regional["zh_CN"] = {
+			monthNames: ["一月","二月","三月","四月","五月","六月",
+			 			"七月","八月","九月","十月","十一月","十二月"],
+			dayNames: ["星期日","星期一", "星期二", "星期三", "星期四", "星期五", "星期六"],
+			dayNamesMin: ["日","一","二","三","四","五","六"],
+			dateFormat: "yy-mm-dd"
+	};
+	$.datepicker.setDefaults($.datepicker.regional["zh_CN"]);
+    $( "#datepicker" ).datepicker();
+  });
+  </script>
+</head>
+<body>
+	<p>Date: <input type="text" id="datepicker"></p>
+</body>
+</html>
